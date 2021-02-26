@@ -1,4 +1,4 @@
-package com.example.helloworld;
+package com.example.myyearbook;
 
 import androidx.appcompat.app.AppCompatActivity;
 
