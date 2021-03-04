@@ -6,13 +6,13 @@ import android.os.Bundle;
 import android.view.View;
 
 public class BarryActivity extends AppCompatActivity {
-    Button share;
+    Button bt;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_barry);
-        share = (Button)findViewById(R.id.button);
-        sharee.setOnClickListneer(new View.OnClickListener() {
+        bt = (Button)findViewById(R.id.button);
+        bt.setOnClickListneer(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent myIntent = new Intent(Intent.ACTION_SEND);
