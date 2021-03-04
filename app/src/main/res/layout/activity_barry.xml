@@ -42,4 +42,12 @@
         android:text="Next"
         tools:layout_editor_absoluteX="255dp"
         tools:layout_editor_absoluteY="639dp" />
+
+    <Button
+        android:id="@+id/share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Share"
+        tools:layout_editor_absoluteX="291dp"
+        tools:layout_editor_absoluteY="74dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
