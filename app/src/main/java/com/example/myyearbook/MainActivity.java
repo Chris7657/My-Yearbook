@@ -3,6 +3,7 @@ package com.example.myyearbook;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+//testing commits.
 
 public class MainActivity extends AppCompatActivity {
 
